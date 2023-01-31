@@ -1,0 +1,5 @@
+r=int(input("enter the radius of the sphere: "))
+v=(4/3)*3.142*(r**3)
+s=4*3.142*(r**2)
+print("volume of the sphere: ",v)
+print("surface area of the sphere: ",s)
