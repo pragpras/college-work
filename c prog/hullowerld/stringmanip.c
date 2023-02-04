@@ -4,4 +4,3 @@
 //strcat: expects two strings and concatenated result is copied back to a
 //strchr: expects string and a char to be found in the string. returns address of matched char in string if found, else null is returned
 //strcmp: compares whether content of array a is same as array b. if a==b, returns 0. returns 1 if array a has lexicographically higher value than array b. else, returns -1
-_Pragma("peepee");
